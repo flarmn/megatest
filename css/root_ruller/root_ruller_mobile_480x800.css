@@ -1,0 +1,141 @@
+/* ----------------------------- [Mobile 480x800 SET] --------------------------- */
+@media(max-width: 801px) and (orientation:landscape){
+/* ----------------------------- [MAIN MENU 480x800] --------------------------- */
+
+
+/* ----------------------------- [MAIN MENU] --------------------------- */
+.menu-root, .ouradvantages-root, .news-root, .partners-root	 {
+  float: left;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.menu-root{
+height:90px;
+background:blue;
+}
+
+
+/* ----------------------------- [BANNER] --------------------------- */
+.banner-root, .contacts-root, .footer-root {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.banner-root{
+height:235px;
+background:red;
+}
+
+
+
+
+
+/* ----------------------------- [ADVANTAGES] --------------------------- */
+.ouradvantages-root{
+background:green;
+height:340px;
+}
+
+
+
+
+/* ----------------------------- [PARTNERS] --------------------------- */
+
+
+.news-root{
+background:yellow;
+height:400px;
+}
+
+
+/* ----------------------------- [CONTACTS] --------------------------- */
+
+.contacts-root{
+background:violet;
+height:450px;
+}
+
+
+
+/* ----------------------------- [FOOTER] --------------------------- */
+
+.footer-root{
+height:50px;
+background:orange;
+}
+
+
+
+}
+
+
+/* ----------------------------- [Mobile 480x800 SET] --------------------------- */
+@media(max-width: 801px) and (orientation:portrait){
+/* ----------------------------- [MAIN MENU 480x800] --------------------------- */
+
+/* ----------------------------- [MAIN MENU] --------------------------- */
+.menu-root, .ouradvantages-root, .news-root, .partners-root	 {
+  float: left;
+  width: 95%;
+  margin-left: 2.5%;
+}
+
+.menu-root{
+height:60px;
+background:blue;
+}
+
+
+/* ----------------------------- [BANNER] --------------------------- */
+.banner-root, .contacts-root, .footer-root {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.banner-root{
+height:200px;
+background:red;
+}
+
+
+
+
+
+/* ----------------------------- [ADVANTAGES] --------------------------- */
+.ouradvantages-root{
+background:green;
+height:340px;
+}
+
+
+
+
+/* ----------------------------- [PARTNERS] --------------------------- */
+
+
+.news-root{
+background:yellow;
+height:400px;
+}
+
+
+/* ----------------------------- [CONTACTS] --------------------------- */
+
+.contacts-root{
+background:violet;
+height:450px;
+}
+
+
+
+/* ----------------------------- [FOOTER] --------------------------- */
+
+.footer-root{
+height:50px;
+background:orange;
+}
+
+}

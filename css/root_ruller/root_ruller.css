@@ -1,0 +1,103 @@
+
+
+
+body {
+  min-width: none;
+  height: 100%;
+  min-height: nonepx;
+  xxbackground: url('../images/Mega_Sait_totalt.jpg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+  font-size: 1em;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -o-transform: none;
+  -ms-transform: none;
+  transform: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-filter: none;
+  -moz-filter: none;
+  -o-filter: none;
+  -ms-filter: none;
+  filter: none;
+  margin:0;
+}
+
+
+
+
+/* ----------------------------- [MAIN MENU] --------------------------- */
+.menu-root, .ouradvantages-root, .news-root, .partners-root	 {
+  float: left;
+  width: 52.8124999999%;
+  margin-left: 23.59375%;
+}
+
+.menu-root{
+height:110px;
+background:blue;
+}
+
+
+/* ----------------------------- [BANNER] --------------------------- */
+.banner-root, .contacts-root, .footer-root {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.banner-root{
+height:500px;
+background:red;
+}
+
+
+
+
+
+/* ----------------------------- [ADVANTAGES] --------------------------- */
+.ouradvantages-root{
+background:green;
+height:340px;
+}
+
+
+
+
+/* ----------------------------- [PARTNERS] --------------------------- */
+
+
+.news-root{
+background:yellow;
+height:400px;
+}
+
+
+/* ----------------------------- [CONTACTS] --------------------------- */
+
+.contacts-root{
+background:violet;
+height:450px;
+}
+
+
+
+/* ----------------------------- [FOOTER] --------------------------- */
+
+.footer-root{
+height:50px;
+background:orange;
+}
+
+
+
+
+
+
+
+
