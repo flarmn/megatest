@@ -1,0 +1,152 @@
+<!-- Header carousel -->
+<div class ="carousel-container" >
+<ul class = "carousel-frames">
+
+
+<!-- frame -->
+<li class = "carousel-frame">
+<img class = "img-fluid" src = "images/image_03_002.jpg"> 
+<!-- carousel-info-block -->
+
+<div class = "carousel-info-block">
+<ul>
+<li class="carousel-info-block-section-theme">HEALTH</li>
+<li class="carousel-info-block-section-date">18:25 PM, Feb 21</li>
+</ul>
+
+<a class = "carousel-back-control"><i class="fa fa-chevron-right"></i></a>
+<a class = "carousel-forward-control"><i class="fa fa-chevron-left"></i></a>
+
+<br>
+<h2 class="carousel-info-block-section-article">
+<a>Nuclear Fusion Closer to Becoming a Reality</a>
+</h2>
+
+<p class="carousel-info-block-section-shorttext">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
+
+</div><!-- /.carousel-info-block -->
+</li>
+<!-- /.frame -->
+
+
+
+
+<!-- frame -->
+<li class = "carousel-frame">
+
+<img class = "img-fluid" src = "images/image_01_003.jpg">
+
+<!-- carousel-info-block -->
+
+<div class = "carousel-info-block">
+<ul>
+<li class="carousel-info-block-section-theme">HEALTH</li>
+<li class="carousel-info-block-section-date">18:25 PM, Feb 21</li>
+</ul>
+
+<a class = "carousel-back-control"><i class="fa fa-chevron-right"></i></a>
+<a class = "carousel-forward-control"><i class="fa fa-chevron-left"></i></a>
+
+
+<br>
+<h2 class="carousel-info-block-section-article">
+<a>Nuclear Fusion Closer to Becoming a Reality</a>
+</h2>
+
+<p class="carousel-info-block-section-shorttext">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
+
+</div><!-- /.carousel-info-block -->
+</li>
+<!-- /.frame -->
+
+
+
+<!-- frame -->
+<li class = "carousel-frame">
+
+<img class = "img-fluid" src = "images/image_02_005.jpg"> 
+
+<!-- carousel-info-block -->
+
+<div class = "carousel-info-block">
+<ul>
+<li class="carousel-info-block-section-theme">HEALTH</li>
+<li class="carousel-info-block-section-date">18:25 PM, Feb 21</li>
+</ul>
+
+<a class = "carousel-back-control"><i class="fa fa-chevron-right"></i></a>
+<a class = "carousel-forward-control"><i class="fa fa-chevron-left"></i></a>
+
+
+<br>
+<h2 class="carousel-info-block-section-article">
+<a>New Painkiller Rekindles Addiction Concerns</a>
+</h2>
+
+<p class="carousel-info-block-section-shorttext">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
+
+</div><!-- /.carousel-info-block -->
+</li>
+<!-- /.frame -->
+
+
+
+<!-- frame -->
+<li class = "carousel-frame">
+<img class = "img-fluid" src = "images/image_03_002.jpg"> 
+<!-- carousel-info-block -->
+
+<div class = "carousel-info-block">
+<ul>
+<li class="carousel-info-block-section-theme">HEALTH</li>
+<li class="carousel-info-block-section-date">18:25 PM, Feb 21</li>
+</ul>
+
+<div class = "carousel-controls">
+<a class = "carousel-back-control"><i class="fa fa-chevron-right"></i></a>
+<a class = "carousel-forward-control"><i class="fa fa-chevron-left"></i></a>
+</div>
+
+<br>
+<h2 class="carousel-info-block-section-article">
+<a>High Altitudes May Aid Weight Control</a>
+</h2>
+
+
+<p class="carousel-info-block-section-shorttext">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
+
+</div><!-- /.carousel-info-block -->
+</li>
+<!-- /.frame -->
+
+
+<!-- frame -->
+<li class = "carousel-frame">
+
+<img class = "img-fluid" src = "images/image_01_003.jpg">
+
+<!-- carousel-info-block -->
+
+<div class = "carousel-info-block">
+<ul>
+<li class="carousel-info-block-section-theme">HEALTH</li>
+<li class="carousel-info-block-section-date">18:25 PM, Feb 21</li>
+</ul>
+
+<a class = "carousel-back-control"><i class="fa fa-chevron-right"></i></a>
+<a class = "carousel-forward-control"><i class="fa fa-chevron-left"></i></a>
+
+
+<br>
+<h2 class="carousel-info-block-section-article">
+<a>Nuclear Fusion Closer to Becoming a Reality</a>
+</h2>
+
+<p class="carousel-info-block-section-shorttext">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
+</div><!-- /.carousel-info-block -->
+</li>
+
+
+</ul>
+</div><!-- /.carousel-container -->
+ <!-- /.Header carousel -->
