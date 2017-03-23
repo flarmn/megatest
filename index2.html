@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="css/header_carousel.css">
 <link rel="stylesheet" href="css/root_ruller/root_ruller_mobile_480x800.css">
 
+<link rel="stylesheet" href="css/content_800_480.css">
 
 <script src="js/jquery-min.js"></script>
 <script src="js/header_carousel.js"></script>
@@ -22,10 +23,40 @@
 <body class="body page-index clearfix">
 
   <div class="menu-root">
-
+<div class="main-menu">
+<ul>
+<li><a href = "#"><span class = "menu-launcher">MENU</span></a></li>
+<li><a href = "#"><span>about</span></a></li>
+<li><a href = "#"><span>services</span></a></li>
+<li><a href = "#"><span><img class = "logo-menu" src = "images/logo.png"></span></a></li>
+<li><a href = "#"><span>news</span></a></li>
+<li><a href = "#"><span>contacts</span></a></li>
+<li><a href = "#"><span><img class = "logo-menu" src = "images/logo.png"></span></a></li>
+</ul>
+</div>
   </div>
 
+<script>
+var a = 0;
+$(document).on('click', ".menu-launcher", function(){
+if(a==0){
+$(".main-menu li").css("display","block");
+$(".main-menu li:nth-child(4)").css("display","none");
+a = 1;
+}
+else{
+$(".main-menu li").css("display","none");
+$(".main-menu li:nth-child(1)").css("display","block");
+$(".main-menu li:last-child").css("display","block");
+a= 0;
+}
+});
 
+
+/*
+$(".main-menu li").toggle();
+*/
+</script>
 
 
 <div id="banner-slider" class="banner-root">

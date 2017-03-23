@@ -31,5 +31,98 @@ body {
 
 
 
+/* ----------------------------- [MAIN MENU] --------------------------- */
+.main-menu {
+  float: left;
+  width: 52.8124999999%;
+  height: 110px;
+  margin-left: 23.59375%;
+  xxbackground:blue;
+  xxxxopacity:0.5;
+}
+
+.main-menu>ul{
+xxposition:relative;
+list-style:none;
+margin-top:45px;
+
+}
+
+.main-menu>ul>li{
+position:relative;
+float:left;
+width:20.0%;
+xxbackground:red;
+text-align:right;
+border-style:solid;
+border-width: 2px;
+border-color:white;
+}
+
+
+.main-menu>ul>li:first-child{
+text-align:left;
+}
+
+.main-menu>ul>li:nth-child(2){
+text-align:left;
+}
+
+.main-menu>ul>li:nth-child(3){
+text-align:left;
+}
+
+
+.main-menu>ul>li>a{
+position:relative;
+color:black;
+font-size:18px;
+font-family: Helvetica;
+text-decoration:none;
+text-transform:uppercase;
+
+xxborder-style:solid;
+xxborder-width: 2px;
+xxborder-color:green;
+}
+
+.main-menu>ul>li:first-child>a:link span{
+ padding: 42px 0px;
+border-top-style:solid;
+border-top-width: 3px;
+border-top-color:black; 
+}
+
+.main-menu>ul>li>a:link span{
+ padding: 42px 0px;
+border-top-style:solid;
+border-top-width: 3px;
+border-top-color:white; 
+}
+
+.main-menu>ul>li>a:hover span{
+border-top-color:black;
+}
+
+.main-menu>ul>li>a:visited span{
+border-top-color:red;
+}
+
+
+
+.logo-menu{
+  position:absolute;
+  display: block;
+  margin-top:-45px;
+  margin-left:-50px;
+  z-index: 100;
+  width:278px;
+
+  height:150px;
+  padding:0px;
+}
+
+
+
 
 

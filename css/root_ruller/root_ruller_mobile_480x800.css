@@ -11,8 +11,8 @@
 }
 
 .menu-root{
-height:90px;
-background:blue;
+height:65.83px;
+background:white;
 }
 
 
@@ -83,8 +83,9 @@ background:orange;
 }
 
 .menu-root{
-height:60px;
-background:blue;
+float:left;
+height:auto;
+background:white;
 }
 
 
@@ -98,6 +99,7 @@ background:blue;
 .banner-root{
 height:200px;
 background:red;
+margin-top:-45px;
 }
 
 
